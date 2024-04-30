@@ -9,9 +9,7 @@ export default function App() {
   return (
     
     <ReduxProvider store={store}>
-      <main className="p-8">
-
-      </main>
+        <div/>
     </ReduxProvider>
 
   )
